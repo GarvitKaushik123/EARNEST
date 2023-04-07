@@ -1,0 +1,21 @@
+.nav__welcome{
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  margin-bottom: 20px;
+  padding-top: 50px;
+  margin-left: 120%;
+  padding-left: 50px;
+  align-items: center;
+  color: #1bdcfe;
+  font-size: 30px;
+}
+
+.company_image {
+  transform: scale(0.3);
+} 
+
+.nav__welcome_main{
+  /* background-color: black;
+   */
+}
